@@ -2,5 +2,6 @@
 {
     public class TongTuan
     {
+        public string Name { get; set; }
     }
 }
