@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\ASP.NET\\TestDuAn\\ok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9ED75C3C-0C7C-44CD-B9B6-B866E3F44B85}|ok\\ok.csproj|d:\\asp.net\\testduan\\ok\\ok\\log.text||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9ED75C3C-0C7C-44CD-B9B6-B866E3F44B85}|ok\\ok.csproj|solutionrelative:ok\\log.text||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{9ED75C3C-0C7C-44CD-B9B6-B866E3F44B85}|ok\\ok.csproj|d:\\asp.net\\testduan\\ok\\ok\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9ED75C3C-0C7C-44CD-B9B6-B866E3F44B85}|ok\\ok.csproj|solutionrelative:ok\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9ED75C3C-0C7C-44CD-B9B6-B866E3F44B85}|ok\\ok.csproj|d:\\asp.net\\testduan\\ok\\ok\\moine.text||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -35,13 +35,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "log.text",
-              "DocumentMoniker": "D:\\ASP.NET\\TestDuAn\\ok\\ok\\log.text",
-              "RelativeDocumentMoniker": "ok\\log.text",
-              "ToolTip": "D:\\ASP.NET\\TestDuAn\\ok\\ok\\log.text",
-              "RelativeToolTip": "ok\\log.text",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "Title": "log.txt",
+              "DocumentMoniker": "D:\\ASP.NET\\TestDuAn\\ok\\ok\\log.txt",
+              "RelativeDocumentMoniker": "ok\\log.txt",
+              "ToolTip": "D:\\ASP.NET\\TestDuAn\\ok\\ok\\log.txt",
+              "RelativeToolTip": "ok\\log.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-03-15T03:32:45.519Z",
               "EditorCaption": ""
             },
@@ -55,8 +55,7 @@
               "RelativeToolTip": "ok\\moine.text",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-15T03:32:43.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T03:32:43.658Z"
             }
           ]
         }
