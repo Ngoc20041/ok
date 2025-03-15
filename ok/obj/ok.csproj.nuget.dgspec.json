@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TunGalaxy\\BN\\ok\\ok.csproj": {}
+    "C:\\TunGalaxy\\ok\\ok\\ok.csproj": {}
   },
   "projects": {
-    "C:\\TunGalaxy\\BN\\ok\\ok.csproj": {
+    "C:\\TunGalaxy\\ok\\ok\\ok.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TunGalaxy\\BN\\ok\\ok.csproj",
+        "projectUniqueName": "C:\\TunGalaxy\\ok\\ok\\ok.csproj",
         "projectName": "ok",
-        "projectPath": "C:\\TunGalaxy\\BN\\ok\\ok.csproj",
+        "projectPath": "C:\\TunGalaxy\\ok\\ok\\ok.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\TunGalaxy\\BN\\ok\\obj\\",
+        "outputPath": "C:\\TunGalaxy\\ok\\ok\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
